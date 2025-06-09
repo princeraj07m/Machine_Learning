@@ -9,7 +9,7 @@ A comprehensive, hands-on **Bootcamp for Machine Learning and Natural Language P
 
 ## 🚀 Overview
 
-This repository contains structured content, code notebooks, datasets, projects, and resources covered throughout the 2024 Machine Learning Bootcamp. Ideal for students, developers, and data enthusiasts aiming to strengthen their ML and NLP foundation.
+This repository contains structured content, code notebooks, datasets, projects, and resources covered throughout the Machine Learning Bootcamp. Ideal for students, developers, and data enthusiasts aiming to strengthen their ML and NLP foundation.
 
 ---
 
